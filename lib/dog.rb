@@ -1,6 +1,6 @@
 class Dog
 end
 
-brutus = Dog.new
-gunter = Dog.new
-gilda = Dog.new
+fido = Dog.new
+snoopy = Dog.new
+lassie = Dog.new
